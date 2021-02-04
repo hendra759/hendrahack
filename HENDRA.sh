@@ -93,7 +93,7 @@ sleep 6
 echo "\033[34;1mJumlah Yang Anda Masukkan Sukses...""\033[32;1mSilahkan Tunggu 5 Menit..."
 sleep 2
 sleep 3
-echo "Ketik Exit Untuk Keluar"
+echo "Ketik HENDRAEX Untuk Keluar"
 read p;
 sleep 2
 sleep 3
