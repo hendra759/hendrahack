@@ -31,15 +31,7 @@ echo "Nomor Sedang Di Proses"
 sleep 2
 echo "\033[37;1m█10%" 
 sleep 1
-echo "██20%" 
-sleep 1
-echo "███30%" 
-sleep 3
-echo "████40%" 
-sleep 3
-echo "█████50%" 
-sleep 3
-echo "██████60%" 
+echo "██10000%"
 sleep 5
 echo "\033[31;1mNomor Gagal CUK..""\033[32;1mSilahkan Masukkan Kembali No Anda:"
 read p;
@@ -47,22 +39,6 @@ sleep 3
 echo "Sedang Menuju Proses..."
 sleep 3
 echo "\033[37;1m█10%"
-sleep 2
-echo "██20%"
-sleep 5
-echo "███30%"
-sleep 3
-echo "████40%"
-sleep 3
-echo "█████50%"
-sleep 3
-echo "██████60%"
-sleep 3
-echo "███████70%"
-sleep 4
-echo "████████80%"
-sleep 3
-echo "█████████90%"
 sleep 4
 echo "██████████100%"
 sleep 3
@@ -72,18 +48,7 @@ sleep 2
 echo "Sedang Menuju Proses..."
 echo "\033[37;1m█10%"
 sleep 1
-echo "██20%"
-sleep 1
-echo "███30%"
-sleep 3
-echo "████40%"
-sleep 3
-echo "█████50%"
-sleep 3
-echo "██████60%"
-sleep 3
-echo "███████70%"
-sleep 4
+
 echo "████████80%"
 sleep 3
 echo "█████████90%"
@@ -91,8 +56,7 @@ sleep 4
 echo "██████████100%"
 sleep 6
 echo "\033[34;1mJumlah Yang Anda Masukkan Sukses...""\033[32;1mSilahkan Tunggu 5 Menit..."
-sleep 2
-sleep 3
+sleeep 3
 echo "Ketik HENDRAEX Untuk Keluar"
 read p;
 sleep 2
